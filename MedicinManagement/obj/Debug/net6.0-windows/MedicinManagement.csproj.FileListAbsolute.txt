@@ -1,0 +1,17 @@
+C:\Users\hangoclinh\source\repos\MedicinManagement\MedicinManagement\bin\Debug\net6.0-windows\MedicinManagement.exe
+C:\Users\hangoclinh\source\repos\MedicinManagement\MedicinManagement\bin\Debug\net6.0-windows\MedicinManagement.deps.json
+C:\Users\hangoclinh\source\repos\MedicinManagement\MedicinManagement\bin\Debug\net6.0-windows\MedicinManagement.runtimeconfig.json
+C:\Users\hangoclinh\source\repos\MedicinManagement\MedicinManagement\bin\Debug\net6.0-windows\MedicinManagement.dll
+C:\Users\hangoclinh\source\repos\MedicinManagement\MedicinManagement\bin\Debug\net6.0-windows\MedicinManagement.pdb
+C:\Users\hangoclinh\source\repos\MedicinManagement\MedicinManagement\obj\Debug\net6.0-windows\MedicinManagement.Form1.resources
+C:\Users\hangoclinh\source\repos\MedicinManagement\MedicinManagement\obj\Debug\net6.0-windows\MedicinManagement.MedicinManagement.resources
+C:\Users\hangoclinh\source\repos\MedicinManagement\MedicinManagement\obj\Debug\net6.0-windows\MedicinManagement.csproj.GenerateResource.cache
+C:\Users\hangoclinh\source\repos\MedicinManagement\MedicinManagement\obj\Debug\net6.0-windows\MedicinManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hangoclinh\source\repos\MedicinManagement\MedicinManagement\obj\Debug\net6.0-windows\MedicinManagement.AssemblyInfoInputs.cache
+C:\Users\hangoclinh\source\repos\MedicinManagement\MedicinManagement\obj\Debug\net6.0-windows\MedicinManagement.AssemblyInfo.cs
+C:\Users\hangoclinh\source\repos\MedicinManagement\MedicinManagement\obj\Debug\net6.0-windows\MedicinManagement.csproj.CoreCompileInputs.cache
+C:\Users\hangoclinh\source\repos\MedicinManagement\MedicinManagement\obj\Debug\net6.0-windows\MedicinManagement.dll
+C:\Users\hangoclinh\source\repos\MedicinManagement\MedicinManagement\obj\Debug\net6.0-windows\refint\MedicinManagement.dll
+C:\Users\hangoclinh\source\repos\MedicinManagement\MedicinManagement\obj\Debug\net6.0-windows\MedicinManagement.pdb
+C:\Users\hangoclinh\source\repos\MedicinManagement\MedicinManagement\obj\Debug\net6.0-windows\MedicinManagement.genruntimeconfig.cache
+C:\Users\hangoclinh\source\repos\MedicinManagement\MedicinManagement\obj\Debug\net6.0-windows\ref\MedicinManagement.dll
