@@ -14,17 +14,24 @@ namespace MedicinManagement
         public int Amount { get; set; }
         public string ExpiredDate { get; set; }
 
+        public bool Prioritize { get; set; }
+
+        public ProductType Type { get; set; }
+
         public Product() {
             
         }
 
-        public Product(int Id, string ProductName, int Price, int Amount, string ExpiredDate)
+        public Product(int Id, string ProductName, int Price, int Amount, string ExpiredDate, ProductType type)
         {
             this.Id = Id;
             this.ProductName = ProductName;
             this.Price = Price;
             this.Amount = Amount;
             this.ExpiredDate = ExpiredDate;
+            this.Prioritize = false;
+            this.Type = type;
+
         }
     }
 }
